@@ -1,0 +1,10 @@
+Proverka texta s raznymi telefonami:
+123-45-67
+123 45 67
+123.45.67
+123/45/67
+(1234567)
+(123-45-67)
+Telefon v tekste: 9876543 i 98-76-54
+Nekotorye chisla ne telefoni: 123456 7654321
+Telefon v konce: (765-43-21)
